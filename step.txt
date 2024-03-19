@@ -1,0 +1,6 @@
+- 第一步：将测试集图片复制到 `data/test/` 下
+- 第二步：将训练集合验证集中的图片都复制到 `data/temp/images/` 下，将两个 `json` 文件放到 `data/temp/labels/` 下
+- 执行 move.py 文件
+- 执行 main.py 进行训练
+
+该config
